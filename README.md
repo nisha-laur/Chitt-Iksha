@@ -1,4 +1,22 @@
 # Chitt-Iksha
+<strong><h1>Overview</h1><br>
+We have submitted a website link consisting of two interfaces :<br>
+1-	Volunteer Interfaces<br>
+ <ul>
+  <li>User login /signup.<br></li>
+  <li>Profile page.</li><br>
+  <li>	Age wise division for volunteering.</li> <br>
+  <li>	Different categories to volunteer community members.</li> <br>
+  <li>	Data authentication verification.</li> <br>
+<li>	Once data verified by moderator , volunteers receive discord links for respective domains via mail.</li><br>
+ 
+ 2-Community User<br>
+ 
+ 
+ 
+
+
+
 LANDING PAGE
 
 ![image](https://user-images.githubusercontent.com/104618576/190896975-9c8bb88c-a527-48d9-bc8e-c136c2700cee.png)
