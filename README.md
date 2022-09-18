@@ -12,6 +12,8 @@ What it does: Our motto with this website is to provide aid in every possible wa
  </ul>
 <br>
   Though we risolved all the problems faced during our idea implementation successfully.<br>
+ <h1>What We Learned?</h1>
+ <p>We have learnt Wix from scratch. From adding different User interfaces to building databases ,we have explored Wix in many new approaches . Also we learnt some new git hub commands to add new changes in the already uploaded GitHub repo . Also we learnt the documentation of Domain name using GoDaddy .</p>
  <h1>Built With</h1>
  <ul>
   <li>HTML</li>
