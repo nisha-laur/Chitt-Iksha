@@ -13,7 +13,7 @@ What it does: Our motto with this website is to provide aid in every possible wa
 <br>
   Though we risolved all the problems faced during our idea implementation successfully.<br>
  <h1>Instructions</h1>
- •	Volunteer page<br>
+ 
 o	User login /signup.<br>
 o	Profile page.<br>
 o	Age wise division for volunteering.<br> 
