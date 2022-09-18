@@ -12,6 +12,14 @@ What it does: Our motto with this website is to provide aid in every possible wa
  </ul>
 <br>
   Though we risolved all the problems faced during our idea implementation successfully.<br>
+ <h1>Instructions</h1>
+ •	Volunteer page<br>
+o	User login /signup.<br>
+o	Profile page.<br>
+o	Age wise division for volunteering.<br> 
+o	Different categories to volunteer community members.<br> 
+o	Data authentication verification. <br>
+o	Once data verified by moderator , volunteers receive discord links for respective domains via mail.<br>
  <h1>What We Learned?</h1>
  <p>We have learnt Wix from scratch. From adding different User interfaces to building databases ,we have explored Wix in many new approaches . Also we learnt some new git hub commands to add new changes in the already uploaded GitHub repo . Also we learnt the documentation of Domain name using GoDaddy .</p>
  <h1>Built With</h1>
