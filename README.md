@@ -10,18 +10,10 @@ What it does: Our motto with this website is to provide aid in every possible wa
   <li>Also While creating the documentation of our website  Domain name we faced problems in the documentation </li>
   <li>In wix we faced issues in the data base backend but later fixed the problem .</li>
  </ul>
-<!-- We have submitted a website link consisting of two interfaces :<br>
-1-	Volunteer Interfaces<br>
- <ul>
-  <li>User login /signup.<br></li>
-  <li>Profile page.</li><br>
-  <li>	Age wise division for volunteering.</li> <br>
-  <li>	Different categories to volunteer community members.</li> <br>
-  <li>	Data authentication verification.</li> <br>
-<li>	Once data verified by moderator , volunteers receive discord links for respective domains via mail.</li><br>
+<br>
   Though we risolved all the problems faced during our idea implementation successfully.
  
- 2-Community User<br> -->
+
  
  
  
