@@ -11,7 +11,15 @@ What it does: Our motto with this website is to provide aid in every possible wa
   <li>In wix we faced issues in the data base backend but later fixed the problem .</li>
  </ul>
 <br>
-  Though we risolved all the problems faced during our idea implementation successfully.
+  Though we risolved all the problems faced during our idea implementation successfully.<br>
+ <h1>Built With</h1>
+ <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Node.js</li>
+  <li>Wix</li>
+ </ul>
  
 
  
