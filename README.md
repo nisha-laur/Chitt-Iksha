@@ -22,11 +22,7 @@ What it does: Our motto with this website is to provide aid in every possible wa
  </ul>
  
 
- 
- 
- 
-
-
+ <h1>ScreenShots</h1>
 
 LANDING PAGE
 
