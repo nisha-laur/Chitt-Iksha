@@ -36,7 +36,7 @@ o	Once data verified by moderator , volunteers receive discord links for respect
 
 LANDING PAGE
 
-![image](https://user-images.githubusercontent.com/104618576/190896975-9c8bb88c-a527-48d9-bc8e-c136c2700cee.png)
+![image](https://user-images.githubusercontent.com/104618576/200110872-f077b886-796f-4e76-aa06-91f3da0c7b5a.png)
 
 
 ![image](https://user-images.githubusercontent.com/104618576/190897029-24a6bbd3-5a3f-4f5e-b576-9d958aa095a4.png)
